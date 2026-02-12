@@ -1,0 +1,8 @@
+{
+  "name": "NJADI AI - Assistant Intelligent",
+  "description": "A high-end AI assistant with Algerian dialect expertise, featuring live camera interaction, scene analysis, and customizable AI voices.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
